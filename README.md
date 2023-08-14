@@ -1,2 +1,2 @@
 # odin-recipes
-Practicing very novice HTML knowledge by building a recipes website!
+Sample practicing very novice HTML and Git knowledge by building a recipes website for my students!
